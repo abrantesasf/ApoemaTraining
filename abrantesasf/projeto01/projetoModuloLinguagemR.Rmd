@@ -7,6 +7,7 @@ tags: Data Science
 output:
   html_document: default
   html_notebook: default
+  pdf_document: default
 ---
 
 # 1. Tarefas do projeto final
